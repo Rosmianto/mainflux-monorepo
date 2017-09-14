@@ -1,0 +1,7 @@
+.git/
+.travis.yml
+glide.lock
+glide.yaml
+LICENSE
+README.md
+swagger.yml

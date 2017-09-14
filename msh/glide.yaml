@@ -1,0 +1,7 @@
+package: github.com/mainflux/mainflux-cli
+import:
+- package: github.com/hokaccha/go-prettyjson
+- package: github.com/mainflux/mainflux-core
+  subpackages:
+  - models
+- package: github.com/spf13/cobra
